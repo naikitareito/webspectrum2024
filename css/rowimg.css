@@ -1,0 +1,22 @@
+
+.container_img{
+    display: flex;
+    justify-content: center;
+
+}
+.container_img img{
+    display: block;
+    width: 50%;
+    height: 50%;
+    padding: 10px 30px;
+}
+
+.container_img_col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container_img_col img{
+    padding: 15px 0 20px 0;
+}
+
